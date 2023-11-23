@@ -126,5 +126,16 @@
       "https://huggingface.co/TheBloke/deepseek-coder-6.7B-base-GGUF/resolve/main/deepseek-coder-6.7b-base.Q3_K_L.gguf"
     ],
     "sha256": "361667f4ef24dfe93177b73ddc1d9c68f198383f01b5c73939bd6df3eb17c8fd"
+  },
+  {
+    "name": "DeepseekCoder-5.7B-Q3",
+    "license_name": "Deepseek License",
+    "license_url": "https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL",
+    "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
+    "provider_url": "https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-base",
+    "urls": [
+      "https://huggingface.co/TheBloke/deepseek-coder-5.7bmqa-base-GGUF/resolve/main/deepseek-coder-5.7bmqa-base.Q3_K_L.gguf"
+    ],
+    "sha256": "cbbcbd30c103df1ec2d6784369b5de1a440a1529aa3e6a0fb740e53bc1d3c0af"
   }
 ]
