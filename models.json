@@ -104,5 +104,13 @@
       "https://huggingface.co/TheBloke/deepseek-coder-6.7B-base-GGUF/resolve/main/deepseek-coder-6.7b-base.Q8_0.gguf"
     ],
     "sha256": "a2f82242ac5e465037cbf1ed754f04f0be044ee196e1589905f9e4dcd0e6559d"
+  },
+  {
+    "name": "DeepseekCoder-5.7BMQA",
+    "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
+    "urls": [
+      "https://huggpicturesingface.co/TheBloke/deepseek-coder-5.7bmqa-base-GGUF/resolve/main/deepseek-coder-5.7bmqa-base.Q6_K.gguf"
+    ],
+    "sha256": "53a579b866027f3dd63187220d065931d68a2764d61d47b7f8cccc3c27da3198"
   }
 ]
