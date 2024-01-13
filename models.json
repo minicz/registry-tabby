@@ -145,7 +145,7 @@
     "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
     "provider_url": "https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-base",
     "urls": [
-      "https://huggingface.co/TheBloke/deepseek-coder-5.7bmqa-base-GGUF/resolve/main/deepseek-coder-5.7bmqa-base.Q3_K_L.gguf"
+      "https://huggingface.co/TheBloke/deepseek-coder-5.7bmqa-base-GGUF/resolve/main/deepseek-coder-5.7bmqa-base.Q6_K.gguf"
     ],
     "sha256": "cbbcbd30c103df1ec2d6784369b5de1a440a1529aa3e6a0fb740e53bc1d3c0af"
   }
