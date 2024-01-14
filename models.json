@@ -115,5 +115,14 @@
       "https://huggingface.co/TheBloke/deepseek-coder-5.7bmqa-base-GGUF/resolve/main/deepseek-coder-5.7bmqa-base.Q6_K.gguf"
     ],
     "sha256": "53a579b866027f3dd63187220d065931d68a2764d61d47b7f8cccc3c27da3198"
+  },
+  {
+    "name": "Phi-2",
+    "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
+    "provider_url": "https://huggingface.co/TheBloke/phi-2-GGUF",
+    "urls": [
+      "https://huggingface.co/TheBloke/phi-2-GGUF/resolve/main/phi-2.Q6_K.gguf"
+    ],
+    "sha256": "9a654a17bee234d85b726bbdaec8e9a3365bbc187238998bc4f84c89afb046d6"
   }
 ]
